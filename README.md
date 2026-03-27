@@ -1,6 +1,6 @@
 # CNC-Job-Cost-Calculator-Estimator-
 **Project Overview**
-This project develops a Python-based command-line application to automate cost estimation and quoting for CNC machining operations. The tool calculates material costs, machining labor, overhead allocation, and generates formatted job quotes with profitability analysis.
+This Python-based command-line application was made to automate cost estimation and quoting for CNC machining operations. The tool calculates material costs, machining labor, overhead allocation, and generates formatted job quotes with profitability analysis.
 
 **Skills Demonstraited**
 1) Sequential Logic & Flow
